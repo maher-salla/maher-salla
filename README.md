@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maher-salla, a DevOps engineer in Salla
+- 👋 Hi, I’m @maher-salla, a DevOps Engineer in Salla, started in 2022, have been a Front-end guy, a React Samurai, and an Angular Ninja since 2019. Fanatic Linux user. Have tried some back-end stuff with PHP, Laravel, NodeJS, ExpressJS, NestJS.
 - 👀 I’m interested in DevOps, automation, distribution systems, Linux, TypeScript, blockchain
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on everything I can
